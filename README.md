@@ -1,0 +1,1 @@
+This is a visualizer tool to show how different sorting algorithms work. Now there are merge, quick, and bubble sorting, later may add more. You can set the size of the random array and the sorting speed.
